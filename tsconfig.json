@@ -11,5 +11,11 @@
   },
   "include": [
     "./lib/**/*"
+  ],
+  "files": [
+    "index.ts"
+  ],
+  "exclude": [
+    "node_modules",
   ]
 }

@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "A React Websocket Component",
   "main": "index.ts",
-  "scripts": {},
+  "scripts": {
+    "build-publish": "tsc --p tsconfig.publish.json"
+  },
   "keywords": ["react", "websocket", "stompjs", "sockjs", "client"],
   "author": "Albert Lochmueller",
   "license": "ISC",
