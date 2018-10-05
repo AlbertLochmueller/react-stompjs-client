@@ -7,7 +7,7 @@
     "preserveConstEnums": true,
     "removeComments": true,
     "sourceMap": true,
-    "lib": ["es2015"],
+    "lib": ["es2015", "dom"],
     "target": "es5"
   },
   "include": [
@@ -17,6 +17,6 @@
     "index.ts"
   ],
   "exclude": [
-    "node_modules",
+    "node_modules"
   ]
 }
