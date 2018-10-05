@@ -5,3 +5,7 @@ package-lock.json
 # IDE
 .idea
 *.iml
+
+*.d.ts
+*.js
+*.js.map
